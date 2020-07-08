@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -7,30 +7,23 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apsampaio/semana-omnistack-11">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apsampaio/semana-omnistack-11">
-  
-  <a href="https://github.com/apsampaio/semana-omnistack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/apsampaio/semana-omnistack-11">
-  </a>
-
-  <a href="https://github.com/apsampaio/semana-omnistack-11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/apsampaio/semana-omnistack-11">
-  </a>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias"> :rocket: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">🤔 Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">🔖 Como Executar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="git/prev.png" width="100%">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -44,7 +37,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
@@ -55,34 +52,10 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## 🔖 Como Executar
+## :memo: Licença
 
-#### Clonando o projeto
-```sh
-git clone https://github.com/apsampaio/semana-omnistack-11.git
-cd semana-omnistack-11
-npm install
-```
-#### Iniciando Backend
-```sh
-cd backend
-npm start
-```
-#### Iniciando Frontend
-```sh
-cd frontend
-npm start
-```
-#### Iniciando mobile
-```sh
-cd mobile
-npm start
-```
-
-<p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
-</p>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com ♥ by Andre Sampaio :wave:
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
