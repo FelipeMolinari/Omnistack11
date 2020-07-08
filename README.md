@@ -1,22 +1,19 @@
-![alt text](https://be-thehero.netlify.app/static/media/logo.7eea718b.svg)
+
+<p align="center">
+  <img width="364" src="https://be-thehero.netlify.app/static/media/logo.7eea718b.svg">
+</p>
 
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-layout">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <br>
@@ -25,7 +22,7 @@
   <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -42,19 +39,34 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-## 🤔 Como contribuir
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+## 🔖 Como Executar
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+#### Clonando o projeto
+```sh
+git clone https://github.com/apsampaio/semana-omnistack-11.git
+cd semana-omnistack-11
+npm install
+```
+#### Iniciando Backend
+```sh
+cd backend
+npm start
+```
+#### Iniciando Frontend
+```sh
+cd frontend
+npm start
+```
+#### Iniciando mobile
+```sh
+cd mobile
+npm start
+```
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
+<p align="center">
+  <img alt="Frontend" src="https://flamboyant-ritchie-afb3b1.netlify.app/static/media/heroes.1f4b5508.png" width="596px" height="574px">
+</p>
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ Felipe Molinari
