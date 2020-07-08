@@ -1,4 +1,4 @@
-![alt text](https://github.com/FelipeMolinari/Omnistack11/blob/master/logo.jpg?raw=true)
+![alt text](https://be-thehero.netlify.app/static/media/logo.7eea718b.svg)
 
 
 <h4 align="center">
