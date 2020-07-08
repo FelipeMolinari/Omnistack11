@@ -10,7 +10,6 @@
 
 
 <p align="center">
-   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias"> :rocket: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">🔖 Como executar</a>&nbsp;&nbsp;&nbsp;
@@ -60,4 +59,6 @@ npm start
 </p>
 ---
 
-Feito com ♥ Felipe Molinari
+<hr/>
+<br/>
+<blockquote>Feito :heart: by Felipe Molinari</blockquote>
