@@ -1,6 +1,5 @@
-<h1 align="center">
-![alt text](https://github.com/FelipeMolinari/Omnistack11/blob/master/image.jpg?raw=true)
-</h1>
+![alt text](https://github.com/FelipeMolinari/Omnistack11/blob/master/logo.jpg?raw=true)
+
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
