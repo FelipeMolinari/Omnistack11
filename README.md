@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/logo.svg" width="200px" />
+![alt text](https://github.com/FelipeMolinari/Omnistack11/blob/master/image.jpg?raw=true)
 </h1>
 
 <h4 align="center">
