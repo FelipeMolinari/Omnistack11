@@ -34,7 +34,7 @@ O BeTheHero √© um projeto que visa conectar pessoas que desejam fazer contribui√
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/apsampaio/semana-omnistack-11.git
+git clone https://github.com/FelipeMolinari/Omnistack11
 cd semana-omnistack-11
 npm install
 ```
